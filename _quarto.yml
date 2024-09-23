@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "demosite"
+  title: "Director Bronkar (U) Limited"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Favourites.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
     css: styles.css
     toc: true
 

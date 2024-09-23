@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "demosite",
+    "title": "Bronkar on Sterroids",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I love my dogs. Here is a picture of my dogs.\n\n\n\nMy dogs are awesome\n\n\nIf you like dogs too, then you should definitely hire me for a highly paid position.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     YouTube\n  \n  \n    \n     resume\n  \n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Favourites.html#favourite-dog-breeds",
+    "href": "Favourites.html#favourite-dog-breeds",
+    "title": "Favourites",
+    "section": "## favourite dog breeds",
+    "text": "## favourite dog breeds\n- shetland sheepdog\n- Golden retriever\n- Labrador"
+  },
+  {
+    "objectID": "Favourites.html#favourite-characters",
+    "href": "Favourites.html#favourite-characters",
+    "title": "Favourites",
+    "section": "## favourite characters",
+    "text": "## favourite characters\n- Samwise gamgee\n- Legolas\n- Aragorn"
   }
 ]
